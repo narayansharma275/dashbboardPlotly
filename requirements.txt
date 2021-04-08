@@ -1,0 +1,9 @@
+jupyterlab
+requests
+pandas
+textblob
+plotly-express
+voila
+seaborn
+cufflinks
+plotly
